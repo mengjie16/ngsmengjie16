@@ -25,3 +25,6 @@ console.log(obj);
   }
 
 */
+//--inspect-brk
+
+//chrome://inspect/#devices

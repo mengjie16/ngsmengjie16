@@ -26,3 +26,6 @@ o3.greet = () => console.log('I am special!');
 o1.greet();
 o2.greet();
 o3.greet();
+// Hello Max!
+//Hello Tina from 1st Grade
+//I am special
